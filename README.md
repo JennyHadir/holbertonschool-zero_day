@@ -1,6 +1,6 @@
 **holberton-zero_day**
-It's the first project of holbertonschool contains the basics of :
-* [Vagrant](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x00-vagrant)
-* [Emacs](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x01-emacs)
-* [Vi](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x02-vi)
-* [Git](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x03-git)
+It's the first project of holbertonschool contains the basics of the following text editor :
+* [Vagrant](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x00-vagrant) :Vagrant is a tool for working with virtual environments, and in most circumstances, this means working with virtual machines. Vagrant provides a simple and easy to use command-line client for managing these environments, and an interpreter for the text-based definitions of what each environment looks like, called Vagrantfiles. Vagrant is open source, which means that anyone can download it, modify it, and share it freely.
+* [Emacs](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x01-emacs) : Emacs is also more than just a text editor; it can be customized and extended with different “modes”, enabling it to be used like an Integrated Development Environment (IDE) for programming languages like Java, C or Python , Emacs is popular because it's incredibly powerful. You can make it do nearly anything. From text manipulation to playing games. 
+* [Vi](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x02-vi) : Vi or the Visual Editor is the default text editor that comes with most Linux systems. It is a Terminal-based text editor that users need to learn, essentially when more user-friendly text editors are not available on the system. ... You can use Vi as an excellent html editor.
+* [Git](https://github.com/JennyHadir/holbertonschool-zero_day/tree/master/0x03-git) : Git is a version control system that lets you manage and keep track of your source code history
