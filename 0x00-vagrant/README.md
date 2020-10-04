@@ -1,1 +1,1 @@
-the second
+[**0-hello_ubuntu**](https://github.com/JennyHadir/holbertonschool-zero_day/blob/master/0x00-vagrant/0-hello_ubuntu) : contain the output of the command uname without any option .
